@@ -15,7 +15,7 @@ obs: Devo guardar essas informações sobre a data de aniversário do funcionár
 
  - Para cada novo funcionário que é registrado na empresa, lhe é dado um dos seguintes cartões, que é sorteado de forma aleatória:
 
-| cartoes = ['R$50,00','R$250,00','R$120,00']
+cartoes = ['R$50,00','R$250,00','R$120,00']
 
 
 
