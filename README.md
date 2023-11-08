@@ -1,18 +1,22 @@
 ## Objetivo de projeto:
 
-Estou criando um módulo de caastro de um funcionário e devo obter as seguintes informações do funcionário:
+Estou criando um módulo de cadastro de um funcionário e devo obter as seguintes informações do funcionário:
 
-- Nome do usuário
+- Nome
 
-- Idade do usuário
+- Idade
+
+- Data de aniversário
+
+obs: Devo guardar essas informações sobre a data de aniversário do funcionário no formato (dd/mm/aaaa)
 
 ## Outras funcionalidades:
  - Registrar de forma automática a data do cadastro do usuário.
 
- - Para cada novo funcionário que é registrado na empresa, ele recebe um dos seguintes cartões, que é sorteado de forma aleatória:
-cartoes = ['R$50,00','R$250,00','R$120,00']
+ - Para cada novo funcionário que é registrado na empresa, lhe é dado um dos seguintes cartões, que é sorteado de forma aleatória:
 
-- Devo guardar essas informações sobre a data de aniversário do funcionário no formato (dd/mm/aaaa)
+| cartoes = ['R$50,00','R$250,00','R$120,00']
+
 
 
 ## Gerando apresentação do usuário:
