@@ -2,7 +2,6 @@
 # Módulo 1 - Gerar registro do funcionário
 
 from datetime import datetime 
-from colorama import Fore, Style
 from tqdm import tqdm
 from time import sleep
 import random
